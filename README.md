@@ -123,6 +123,6 @@
 
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mailingdelgadomedina&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mailingdelgadomedina" /></p>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mailingdelgadomedina&show_icons=true&locale=en&theme=algolia" alt="mailingdelgadomedina" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mailingdelgadomedina&show_icons=true&locale=en&theme=algolia" alt="mailingdelgadomedina" /></p>
 
 
