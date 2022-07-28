@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Learning Source LLC**
 
-- 🌱 I’m currently mastering **Java, Angular,C#**
+- 🌱 I’m currently mastering **Java, SOAP, Angular,C#**
 
 - 💬 Ask me about **React, Next,js, JS, HTML, CSS, NODE...**
 
