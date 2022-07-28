@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/mailing-delgado-medina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mailingdelgadomedina" height="30" width="40" /></a>
 </p>
 
-<a align="right" href="https://app.daily.dev/MailingDelgado"><img src="https://api.daily.dev/devcards/cc886852bd5147ecaca2e2e81d1d84ec.png?r=equ" width="400" alt="MailingDelgadoMedina's Dev Card"/></a>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<a align="right" href="https://app.daily.dev/MailingDelgado"><img src="https://api.daily.dev/devcards/cc886852bd5147ecaca2e2e81d1d84ec.png?r=equ" width="400"  alt="MailingDelgadoMedina's Dev Card"/></a>
 
 - 🔭 I’m currently working on **Learning Source LLC**
 
