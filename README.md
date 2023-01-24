@@ -10,7 +10,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **Learning Source LLC**
+- 🔭 I’m currently working on **ThriveDx**
 
 - 🌱 I’m currently mastering **Java, SOAP, Angular,C#** 
 
