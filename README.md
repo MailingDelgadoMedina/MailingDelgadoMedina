@@ -2,7 +2,8 @@
 
 <p align="center"  height="400"  > <img height="400" src="https://i.pinimg.com/originals/bf/c6/7a/bfc67a7da17b8a3f224b0ba748c71364.gif" alt="mailingdelgadomedina" /> </p>
 <h1 align="center">Hello 👋, welcome to my GitHub!</h1>
-<h3 align="center">My name is Mailing, and I'm a UI/UX designer, Software Engineer. I'm passionate about learning technologies and share what I have learn with others. Whether it's creating full stack applications, websites, or something new for the web, I combine stellar design, optimal UI/UX, and industry best practices for the tech stack.</h3>
+<h3 align="center">My name is Mailing, and I'm a UI/UX designer, Software Engineer. I'm passionate about learning technologies and share what I have learn with others. Whether it's creating full stack applications, websites, or something new for the web, I combine stellar design, optimal UI/UX, and industry best practices for the tech stack.</h3> <h3> I am a AWS Community Builder </h3>
+<img src="https://res.cloudinary.com/programandoconmei/image/upload/v1678159564/AWS%20CB/Community_Builder_badge_1600px_boklmt.png" alt="AWS CB" height="50" width="50" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mailingdelgadomedina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mailingdelgadomedina" height="30" width="40" /></a>
