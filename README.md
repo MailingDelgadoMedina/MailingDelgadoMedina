@@ -1,6 +1,6 @@
 
 
-<p align="center"  height="400"  > <img src="[https://res.cloudinary.com/programandoconmei/image/upload/v1678159565/AWS%20CB/Community_Builder_LinkedIn_1400px_s304tx.png](https://www.canva.com/design/DAFdqelcQaI/J4LzTzrLk1GLvcgKcaB7vg/view?utm_content=DAFdqelcQaI&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)" alt="AWS CB" /> <img height="400" src="https://i.pinimg.com/originals/bf/c6/7a/bfc67a7da17b8a3f224b0ba748c71364.gif" alt="mailingdelgadomedina" /> </p>
+<p align="center"  height="400"  > <img src="https://res.cloudinary.com/programandoconmei/image/upload/v1678159565/AWS%20CB/Community_Builder_LinkedIn_1400px_s304tx.png" alt="AWS CB" /> <img height="400" src="https://i.pinimg.com/originals/bf/c6/7a/bfc67a7da17b8a3f224b0ba748c71364.gif" alt="mailingdelgadomedina" /> </p>
 <h1 align="center">Hello 👋, welcome to my GitHub!</h1>
 <h3 align="center">My name is Mailing, and I'm a UI/UX designer, Software Engineer. I'm passionate about learning technologies and share what I have learn with others. Whether it's creating full stack applications, websites, or something new for the web, I combine stellar design, optimal UI/UX, and industry best practices for the tech stack.</h3>
 
