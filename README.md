@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **ThriveDx**
 
-- 🌱 I’m currently mastering **Java, SOAP, Angular,C#** 
+- 🌱 I’m currently mastering **Java, Graphql, ML ** 
 
 - 💬 Ask me about **React, Next,js, JS, HTML, CSS, NODE...**
 
